@@ -1,0 +1,7 @@
+  Compile Options 
+-timescale=1ns/1ns +vcs+flush+all +warn=all -sverilog
+
+
+
+  Run Options 
++UVM_TESTNAME=mem_wr_rd_test
